@@ -4,7 +4,15 @@
         <title>Updates</title>
         <item>
             <title>1.0.0</title>
-            <pubDate>Tue, 14 Jul 2026 17:34:01 +0300</pubDate>
+            <pubDate>Tue, 14 Jul 2026 17:39:31 +0300</pubDate>
+            <sparkle:version>183</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/onury/shelf/main/_bin/cw/cw-183.zip" length="2699702" type="application/octet-stream" sparkle:edSignature="7PMOg8Z5bijRGctlxUNDG7J+eEV9IV0Aer/+sAsHj0vBIwLCrYtf/L8OAMVy1bG0GxibaPoZl5ByVoqFMolCDw==" />
+        </item>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Tue, 14 Jul 2026 17:39:32 +0300</pubDate>
             <sparkle:version>182</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
