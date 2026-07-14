@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Updates</title>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Tue, 14 Jul 2026 17:34:01 +0300</pubDate>
+            <sparkle:version>182</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/onury/shelf/main/_bin/cw/cw-182.zip" length="2699674" type="application/octet-stream" sparkle:edSignature="prwffhqwoVawZvfdqPhZCv5ccSe6I17SYLDfnbAil2n0m0wJUfn2xUclttTL/OdO9qngaf4EF6Otp34so1WLBQ==" />
+        </item>
+    </channel>
+</rss>
