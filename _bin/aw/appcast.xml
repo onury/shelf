@@ -4,7 +4,15 @@
         <title>Updates</title>
         <item>
             <title>1.0.0</title>
-            <pubDate>Tue, 22 Sep 2026 15:35:56 +0300</pubDate>
+            <pubDate>Tue, 22 Sep 2026 15:39:24 +0300</pubDate>
+            <sparkle:version>227</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/onury/shelf/main/_bin/aw/aw-227.zip" length="2902852" type="application/octet-stream" sparkle:edSignature="GCZKzzC72lpSZGKC/Ac/eBNRbDxyGhmAyBXbWsLXwlWTiVu0Gl2AdSFJGOSnwz9x7qlaad7Tniv3mLYqwzZ3BA==" />
+        </item>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Tue, 22 Sep 2026 15:39:24 +0300</pubDate>
             <sparkle:version>226</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
@@ -12,7 +20,7 @@
         </item>
         <item>
             <title>1.0.0</title>
-            <pubDate>Tue, 22 Sep 2026 15:35:56 +0300</pubDate>
+            <pubDate>Tue, 22 Sep 2026 15:39:24 +0300</pubDate>
             <sparkle:version>225</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
