@@ -4,7 +4,15 @@
         <title>Updates</title>
         <item>
             <title>1.0.0</title>
-            <pubDate>Thu, 17 Sep 2026 19:33:05 +0300</pubDate>
+            <pubDate>Tue, 22 Sep 2026 04:46:10 +0300</pubDate>
+            <sparkle:version>210</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/onury/shelf/main/_bin/cw/cw-210.zip" length="2727201" type="application/octet-stream" sparkle:edSignature="rjsx+gyr+B6QiCXyNvrLoebRSjP6qDGb9lcabB6By1Auq7rpKNl4ww8tFfeS1jNQH4j/0xeaEczrEmc9yc7KAw==" />
+        </item>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Tue, 22 Sep 2026 04:46:10 +0300</pubDate>
             <sparkle:version>203</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
@@ -12,19 +20,11 @@
         </item>
         <item>
             <title>1.0.0</title>
-            <pubDate>Thu, 17 Sep 2026 19:33:05 +0300</pubDate>
+            <pubDate>Tue, 22 Sep 2026 04:46:10 +0300</pubDate>
             <sparkle:version>201</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="https://raw.githubusercontent.com/onury/shelf/main/_bin/cw/cw-201.zip" length="2753361" type="application/octet-stream" sparkle:edSignature="vOrQ8nZDqv/RLBdeQ17T9sXSFCITsX2rkuqzkZPUrY9cty+CjkccRO/KOw555KOWh6OEriqdec8LkuOC/0BtAA==" />
-        </item>
-        <item>
-            <title>1.0.0</title>
-            <pubDate>Thu, 17 Sep 2026 19:33:05 +0300</pubDate>
-            <sparkle:version>198</sparkle:version>
-            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/onury/shelf/main/_bin/cw/cw-198.zip" length="2748997" type="application/octet-stream" sparkle:edSignature="OUOGoq9jJknT7aYo9hRn3bG1UV5oBMLuIQqEiwFqsO5hfCVTaxQMtWEk0MB77UTUrIUHWwZZ1Db4zdX+7N1nBQ==" />
         </item>
     </channel>
 </rss>
