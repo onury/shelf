@@ -4,7 +4,15 @@
         <title>Updates</title>
         <item>
             <title>1.0.0</title>
-            <pubDate>Wed, 23 Sep 2026 03:36:25 +0300</pubDate>
+            <pubDate>Wed, 30 Sep 2026 14:18:41 +0300</pubDate>
+            <sparkle:version>269</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/onury/shelf/main/_bin/aw/aw-269.zip" length="2954251" type="application/octet-stream" sparkle:edSignature="mbl8F7glJie/bfoJSY21VhwKs+xPIMnqMJ6Awd6K3sE17lQncDh+ufJp5aUpl/+6RgsmmQeLzDsrnQGqsi+yDw==" />
+        </item>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Wed, 30 Sep 2026 14:18:41 +0300</pubDate>
             <sparkle:version>250</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
@@ -12,19 +20,11 @@
         </item>
         <item>
             <title>1.0.0</title>
-            <pubDate>Wed, 23 Sep 2026 03:36:25 +0300</pubDate>
+            <pubDate>Wed, 30 Sep 2026 14:18:41 +0300</pubDate>
             <sparkle:version>248</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="https://raw.githubusercontent.com/onury/shelf/main/_bin/aw/aw-248.zip" length="2932538" type="application/octet-stream" sparkle:edSignature="k3QsJkWXdJaSSLm4ZvKcIYi+Arf3e5XJC0as/T3pnMIKtYjdOvCRI5Zo7hmcDeS3yuuoVvCiE0h+761ZpTN8Ag==" />
-        </item>
-        <item>
-            <title>1.0.0</title>
-            <pubDate>Wed, 23 Sep 2026 03:36:25 +0300</pubDate>
-            <sparkle:version>246</sparkle:version>
-            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/onury/shelf/main/_bin/aw/aw-246.zip" length="2930936" type="application/octet-stream" sparkle:edSignature="/HFPDtBqQkEU75fHgLC9+jAkfXkXOEVbx0Xyo7IAeKRVg2+OrQgUE+mrHdmjlUmcWFk4zTAzS2gNWA4BLOpqDg==" />
         </item>
     </channel>
 </rss>
