@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Updates</title>
+        <item>
+            <title>1.0.2</title>
+            <pubDate>Sun, 11 Oct 2026 13:43:40 +0300</pubDate>
+            <sparkle:version>78</sparkle:version>
+            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/onury/shelf/main/_bin/ds/ds-78.zip" length="2645812" type="application/octet-stream" sparkle:edSignature="Or3O5voH1uXHjriP+x7ikE+DIujhdyIUA8izytlo5F+/DFBsS+2H+nfxz87zRw8GGV0lZz5DFTtSgdw+HNnEBw==" />
+        </item>
+    </channel>
+</rss>
